@@ -33,3 +33,4 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - config.ru
+  - contact_form.rb
